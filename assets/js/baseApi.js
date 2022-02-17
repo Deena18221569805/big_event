@@ -23,6 +23,5 @@ $.ajaxPrefilter(function (options) {
             //2.强制跳转到登录页面
             location.href = '/login.html'
         }
-
     }
 })
